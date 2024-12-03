@@ -1,0 +1,6 @@
+modules/key/my-key-pair
+modules/key/my-key-pair.pub
+root/terraform.tfvars
+root/backend.tf
+root/.terraform.lock.hcl
+
